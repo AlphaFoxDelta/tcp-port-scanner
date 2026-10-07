@@ -1,0 +1,4 @@
+# This project uses only the Python standard library.
+# No third-party packages are required.
+#
+# Tested with Python 3.8+.
